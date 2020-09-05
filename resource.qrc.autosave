@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/red_bullet.png</file>
+        <file>res/reimu.jpg</file>
+    </qresource>
+</RCC>
